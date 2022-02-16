@@ -1,5 +1,5 @@
 {
-  "name": "@hxf31891/react-use-current-date",
+  "name": "react-use-current-date",
   "version": "1.0.0",
   "description": "A simple, lightweight hook that returns and updates the current date",
   "main": "index.js",
@@ -15,7 +15,10 @@
     "date",
     "hooks"
   ],
-  "author": "hxf31891",
+  "author": {
+    "name": "Harry Fox",
+    "email": "hxfox1@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
     "date-fns": "^2.28.0"
